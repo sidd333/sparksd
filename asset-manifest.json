@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/sparksd/static/css/main.31d6cfe0.css",
+    "main.js": "/sparksd/static/js/main.40474e03.js",
+    "index.html": "/sparksd/index.html",
+    "main.40474e03.js.map": "/sparksd/static/js/main.40474e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.40474e03.js"
+  ]
+}
