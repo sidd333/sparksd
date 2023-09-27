@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div className="h-screen bg-[url('bgg.jpg')]">
+      <div className="h-screen bg-[url('../public/bgg.jpg')]">
         {" "}
         <h2 className="pt-64 text-center text-3xl text-white">
           This application is fully rendered <b>server side </b>and could take
